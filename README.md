@@ -1,2 +1,2 @@
-# noteKeeperApp
-Created with CodeSandbox
+# Note Taking App
+Created with React.JS
